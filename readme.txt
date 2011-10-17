@@ -1,9 +1,9 @@
 === Tags On Page ===
-Contributors: CyberSEO.net
+Contributors: CyberSEO
 Plugin URI: http://www.cyberseo.net/tags-on-page/
-Author: CyberSEO.net
+Author: CyberSEO
 Author URI: http://www.cyberseo.net/
-Tags: tags
+Tags: tags, tag cloud
 Requires at least: 2.3
 Tested up to: 3.2.1
 Stable tag: 4.3
