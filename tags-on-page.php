@@ -8,6 +8,10 @@ Plugin URI: http://www.cyberseo.net/tags-on-page/
 Description: Displays a list of tags (tag cloud) on the specified page.
 */
 
+if (! function_exists ( "get_option" ) || ! function_exists ( "add_filter" )) {
+	die ();
+}
+
 define ( 'TAGS_ON_PAGE_PAGE_TITLE', 'tags_on_page_page_title' );
 define ( 'TAGS_ON_PAGE_NUMBER_OF_TAGS', 'tags_on_page_number_of_tags' );
 define ( 'TAGS_ON_PAGE_SMALLEST_SIZE', 'tags_on_page_smallest_size' );

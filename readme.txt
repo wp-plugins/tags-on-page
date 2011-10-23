@@ -14,8 +14,6 @@ Displays a list of tags (tag cloud) on the specified page.
 
 The Tags On Page plugin (developed by [CyberSEO.net](http://www.cyberseo.net/ "CyberSEO.net")) displays a list of tags (tag cloud) on the specified page.
 
-More usage info can be found at the [plugin's homepage](http://www.cyberseo.net/tags-on-page/ "Tags On Page").
-
 == Installation ==
 
 1. Upload 'wp-flash.php' to the '/wp-content/plugins/' directory
