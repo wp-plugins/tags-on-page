@@ -16,7 +16,7 @@ The Tags On Page plugin (developed by [CyberSEO.net](http://www.cyberseo.net/ "C
 
 == Installation ==
 
-1. Upload 'wp-flash.php' to the '/wp-content/plugins/' directory
+1. Upload 'tags-on-page' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
