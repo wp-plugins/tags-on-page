@@ -13,9 +13,9 @@ if (! function_exists ( "get_option" ) || ! function_exists ( "add_filter" )) {
 }
 
 define ( 'TAGS_ON_PAGE_PAGE_TITLE', 'tags_on_page_page_title' );
-define ( 'TAGS_ON_PAGE_NUMBER_OF_TAGS', 'tags_on_page_number_of_tags' );
-define ( 'TAGS_ON_PAGE_SMALLEST_SIZE', 'tags_on_page_smallest_size' );
 define ( 'TAGS_ON_PAGE_LARGEST_SIZE', 'tags_on_page_largest_size' );
+define ( 'TAGS_ON_PAGE_SMALLEST_SIZE', 'tags_on_page_smallest_size' );
+define ( 'TAGS_ON_PAGE_NUMBER_OF_TAGS', 'tags_on_page_number_of_tags' );
 
 function tags_on_page_set_option($option_name, $newvalue, $deprecated = '', $autoload = 'yes') {
 	if (get_option ( $option_name ) === false) {
