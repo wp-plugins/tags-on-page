@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tags On Page
-Version: 1.00
+Version: 1.2
 Author: CyberSEO.NET
 Author URI: http://www.cyberseo.net/
 Plugin URI: http://www.cyberseo.net/tags-on-page/

@@ -5,7 +5,7 @@ Author: CyberSEO
 Author URI: http://www.cyberseo.net/
 Tags: tags, tag cloud
 Requires at least: 2.3
-Tested up to: 3.2.1
+Tested up to: 4.1
 Stable tag: 4.3
 
 Displays a list of tags (tag cloud) on the specified page.
@@ -30,6 +30,12 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 1. Options screen.
 
 == Changelog ==
+
+= 1.2 =
+* Fully compatible with WordPress 4.1
+
+= 1.1 =
+* Fully compatible with WordPress 4.0.1
 
 = 1.0 =
 * Initial release.
